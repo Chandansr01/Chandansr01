@@ -15,8 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
+<!--### 😂 Random Dev Meme
 THIS DOESNT WORK
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://rm.up.railway.app/" width="512px"/>-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
